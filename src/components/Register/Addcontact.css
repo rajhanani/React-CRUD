@@ -1,0 +1,15 @@
+form{
+    width: 60%;
+    margin: auto;
+}
+.form-control {
+ width: 100%;
+
+}
+
+.form-group{
+    padding: 10px;
+}
+h1{
+    text-align: center;
+}

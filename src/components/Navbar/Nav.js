@@ -20,7 +20,7 @@ export const Nav = () => {
         <NavLink class="navbar-brand" to="/">Home</NavLink>
         </li>
         <li class="nav-item">
-        <NavLink class="navbar-brand" to="/studentdata">StudentData</NavLink>        </li> 
+        <NavLink class= "navbar-brand" to="/studentdata">StudentData</NavLink>        </li> 
       </ul> 
     </div>
 
